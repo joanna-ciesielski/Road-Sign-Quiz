@@ -1,0 +1,18 @@
+<resources>
+   <string name="app_name">Road Signs Quiz</string>
+   <string name="action_settings">Settings</string>
+   <string name="number_of_choices">Number of Choices</string>
+   <string name="number_of_choices_description">Display 4 guess buttons</string>
+   <string name="world_regions">Categories</string>
+   <string name="world_regions_description">Categories to include in the quiz</string>
+   <string name="guess_country">What is the meaning of this sign?</string>
+   <string name="results"></string>
+   <string name="incorrect_answer">Incorrect!</string>
+   <string name="default_region_message">One category must be selected. Setting road signs as a default category.</string>
+   <string name="restarting_quiz">Quiz will restart with your new settings</string>
+   <string name="question">Question %1$d of %2$d</string>
+   <string name="reset_quiz">Reset Quiz</string>
+   <string name="image_description">Image of the current sign in the quiz</string>
+   <string name="default_region">Road_Signs</string>
+   <string name="title_activity_settings">Settings</string>
+</resources>
